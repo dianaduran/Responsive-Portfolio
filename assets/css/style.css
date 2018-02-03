@@ -1,3 +1,5 @@
+
+@media screen and (max-width: 980px){
 body{
     color: #777777;
     background-color: #ede6da;
@@ -223,7 +225,7 @@ form p{
     color: #777777;;
 }
 
-@media screen and (max-width: 980px){
+
     
 }
 
